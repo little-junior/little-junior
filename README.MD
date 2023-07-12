@@ -1,5 +1,3 @@
-# little-junior
-
 *Estudante de ADS em busca de aprendizado e experiência*
 
 - 18 Anos | São Paulo - SP 🌎
