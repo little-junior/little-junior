@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 <a target='_blank' href="mailto:eulittlejunior@gmail.com"> <img src="https://img.shields.io/badge/Contact-952?style=for-the-badge&logo=gmail">
 <a target='_blank' href="https://www.linkedin.com/in/jonas-leite-b6b5a0268/"> <img src="https://img.shields.io/badge/Linkedin-069?style=for-the-badge&logo=linkedin"> 
