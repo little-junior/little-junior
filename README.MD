@@ -28,10 +28,14 @@
  <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
 </div>
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=little-junior&theme=transparent&bg_color=004&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E923D5F&text_color=FFF">
 
- <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=little-junior&layout=compact&bg_color=004&border_color=30A3DC&title_color=E923D5F&text_color=FFF">
+
+<div align="center">
+ <img height=190px src="https://github-readme-stats.vercel.app/api?username=little-junior&theme=transparent&bg_color=004&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E923D5F&text_color=FFF">
+
+ <img height=190px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=little-junior&layout=compact&bg_color=004&border_color=30A3DC&title_color=E923D5F&text_color=FFF">
 </div>
+
+
 
 > **Every second counts**
