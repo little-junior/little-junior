@@ -20,7 +20,7 @@
 ## Skills
 
 <div align="center">
- ![HTML](https://img.shields.io/badge/HTML-220?style=for-the-badge&logo=html5)
+ <img src="https://img.shields.io/badge/HTML-220?style=for-the-badge&logo=html5">
  ![Python](https://img.shields.io/badge/Python-069?style=for-the-badge&logo=python) 
  ![Java](https://img.shields.io/badge/Java-820?style=for-the-badge&logo=java) 
  ![Git](https://img.shields.io/badge/Git-521?style=for-the-badge&logo=git)
