@@ -30,10 +30,7 @@
 
 </div>
 
-
-
-
-
+<br>
 
 <div align="center">
 
@@ -43,6 +40,6 @@
 
 </div>
 
-
+<br>
 
 > **Every second counts**
