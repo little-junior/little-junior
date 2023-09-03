@@ -34,9 +34,9 @@
 
 <div align="center">
 
- <img width=75px height=190px src="https://github-readme-stats.vercel.app/api?username=little-junior&theme=transparent&bg_color=004&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E923D5F&text_color=FFF">
+ <img width=400px height=190px src="https://github-readme-stats.vercel.app/api?username=little-junior&theme=transparent&bg_color=004&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E923D5F&text_color=FFF">
 
- <img width=80px height=190px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=little-junior&layout=compact&bg_color=004&border_color=30A3DC&title_color=E923D5F&text_color=FFF">
+ <img width=400px height=190px src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=little-junior&layout=compact&bg_color=004&border_color=30A3DC&title_color=E923D5F&text_color=FFF">
 
 </div>
 
