@@ -23,7 +23,7 @@
  
  <img src="https://img.shields.io/badge/HTML-220?style=for-the-badge&logo=html5">
  <img src="https://img.shields.io/badge/Python-069?style=for-the-badge&logo=python">
- <img src="https://img.shields.io/badge/Java-820?style=for-the-badge&logo=java">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
  <img src="https://img.shields.io/badge/C%23-061?style=for-the-badge&logo=csharp">
  <img src="https://img.shields.io/badge/Git-521?style=for-the-badge&logo=git">
  <img src="https://img.shields.io/badge/SQL-002?style=for-the-badge&logo=mysql">
