@@ -22,6 +22,7 @@
 <div align="center">
  
  <img src="https://img.shields.io/badge/HTML-220?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/Javascript-330?style=for-the-badge&logo=javascript">
  <img src="https://img.shields.io/badge/Python-069?style=for-the-badge&logo=python">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk">
  <img src="https://img.shields.io/badge/C%23-061?style=for-the-badge&logo=csharp">
