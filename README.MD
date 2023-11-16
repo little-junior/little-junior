@@ -11,7 +11,7 @@
 
 ## About me
 
-- 18 years | São Paulo - SP, Brazil 🌎
+- 19 years | São Paulo - SP, Brazil 🌎
 - Pursuing a degree in System Analysis and Development - FATEC SP | Second Semester 🏫
 - Focused on Back-End and Full-Stack technologies 💻
 - Looking for an Internship/Junior position  
@@ -23,7 +23,7 @@
  
  <img src="https://img.shields.io/badge/HTML-220?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/Javascript-330?style=for-the-badge&logo=javascript">
- <img src="https://img.shields.io/badge/Python-069?style=for-the-badge&logo=python">
+ <img src="https://img.shields.io/badge/Python-169?style=for-the-badge&logo=python">
  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk">
  <img src="https://img.shields.io/badge/C%23-061?style=for-the-badge&logo=csharp">
  <img src="https://img.shields.io/badge/Git-521?style=for-the-badge&logo=git">
