@@ -14,7 +14,6 @@
 - 19 years | São Paulo - SP, Brazil 🌎
 - Pursuing a degree in System Analysis and Development - FATEC SP | Second Semester 🏫
 - Focused on Back-End and Full-Stack technologies 💻
-- Looking for an Internship/Junior position  
 
 
 ## Skills
