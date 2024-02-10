@@ -28,8 +28,8 @@
  <img src="https://img.shields.io/badge/Git-521?style=for-the-badge&logo=git">
  <img src="https://img.shields.io/badge/SQL-002?style=for-the-badge&logo=mysql">
  <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
-
-</div>
+ <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+</div>s
 
 <br>
 
