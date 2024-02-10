@@ -20,15 +20,15 @@
 
 <div align="center">
  
- <img src="https://img.shields.io/badge/HTML-220?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/Javascript-330?style=for-the-badge&logo=javascript">
- <img src="https://img.shields.io/badge/Python-169?style=for-the-badge&logo=python">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk">
+ <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-061?style=for-the-badge&logo=csharp">
- <img src="https://img.shields.io/badge/Git-521?style=for-the-badge&logo=git">
- <img src="https://img.shields.io/badge/SQL-002?style=for-the-badge&logo=mysql">
- <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+ <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+ <img src="https://img.shields.io/badge/Git-521?style=for-the-badge&logo=git">
+ <img src="https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github">
+ 
 </div>
 
 <br>
