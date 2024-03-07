@@ -12,7 +12,7 @@
 ## About me
 
 - 19 years | São Paulo - SP, Brazil 🌎
-- Pursuing a degree in System Analysis and Development - FATEC SP | Second Semester 🏫
+- Pursuing a degree in System Analysis and Development 🏫
 - Focused on Back-End and Full-Stack technologies 💻
 
 
